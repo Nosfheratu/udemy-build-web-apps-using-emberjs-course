@@ -1,0 +1,15 @@
+.active{
+  color: red;
+  font-weight: bold;
+}
+
+.well{
+  background: #f4f4f4;
+  border: #cc 1px solid;
+  padding: 20px;
+  width: 500px;
+}
+
+.greeting-set{
+  background: #ccc;
+}
